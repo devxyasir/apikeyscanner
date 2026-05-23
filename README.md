@@ -3,7 +3,7 @@
 **A local secret leak detection tool for developers and DevOps teams.**
 
 Detect leaked API keys, tokens, passwords, and secrets inside your files and projects — before they reach production or get pushed to GitHub.
-
+- Docs[https://docs-ten-neon.vercel.app/]
 ---
 
 ## ✨ What It Does
